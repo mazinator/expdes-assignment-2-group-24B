@@ -1,0 +1,36 @@
+comments
+1. code for train&predict available, looks solid
+2. missing hardware requirements?
+3. package version given, but not for subpackages/subdependencies needed for these packages (e.g., Rust)
+4. python version not stated, picked 3.7.5rc1 which was released around 6 months before paper was published
+
+===========================================================
+
+#suggestion for splitting work:
+daniel: continue to reproduce results
+1 person: start with final report (Introduction and so on)
+2 persons: work through "Exercise 2" Appendix (see below)
+
+
+
+
+
+APPENDIX:
+A. Code/Setup Difficulties
+1. Code not provided
+2. Code partially not provided
+3. Faulty code provided
+4. Information about software versions missing
+5. Specific hardware and softwaresetup necessary
+
+B. Data
+1. Data not provided
+2. Data partially not provided 
+3. Meta data not provided
+
+C. Process
+1. Comparison metrics or baselines not discussed 
+2. Experimental setup not described
+3. Experiment workflow incomplete
+4. Inconsistencies inpaper, code and data
+5. Results differ significantly

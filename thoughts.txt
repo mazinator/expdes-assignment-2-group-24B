@@ -1,4 +1,0 @@
-1. code for train&predict available, looks solid
-2. missing hardware requirements?
-3. package version given, but not for subpackages/subdependencies needed for these packages (e.g., Rust)
-4. python version not stated
