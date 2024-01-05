@@ -16,16 +16,25 @@ daniel: continue to reproduce results
 
 
 APPENDIX:
-A. Code/Setup Difficulties
-1. Code not provided
-2. Code partially not provided
-3. Faulty code provided
-4. Information about software versions missing
-5. Specific hardware and softwaresetup necessary
+A. Code/Setup Difficulties 
+1. Code not provided 
+        -> code is provided
+2. Code partially not provided 
+        -> code is provided
+3. Faulty code provided -> 
+        -> preprocessing (because of wrong splitting of pandas added to the code)
+        -> index column removed of queries_gender_annotated.csv
+        -> wordlist_genderspecific.txt has apparently changed, as it is referenced as "gender_specific_wordlist.csv"
+4. Information about software versions missing 
+        -> software version (of the libraries) provided, but not the python version
+5. Specific hardware and softwaresetup necessary 
+        -> not mentioned. but virtual environment has been set up to handle lower python version
 
 B. Data
-1. Data not provided
+1. Data not provided 
+        -> data not provided in the repository, but under other repository: https://github.com/navid-rekabsaz/GenderBias_IR/blob/master/resources
 2. Data partially not provided 
+        -> data not provided in the repository
 3. Meta data not provided
 
 C. Process
