@@ -38,8 +38,12 @@ B. Data
 3. Meta data not provided
 
 C. Process
-1. Comparison metrics or baselines not discussed 
+1. Comparison metrics or baselines not discussed
+        -> metrics table (accuracy, F1 score) provided but not stated explicitly in the paper
+        -> lacks statistical metrics, could be important but not sure it fits this paper
+        -> rest of baselines well discussed 
 2. Experimental setup not described
+        -> experimental setup described
 3. Experiment workflow incomplete
 4. Inconsistencies inpaper, code and data
 5. Results differ significantly
