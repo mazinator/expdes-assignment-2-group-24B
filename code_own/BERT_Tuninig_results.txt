@@ -1,0 +1,25 @@
+Shape of Dataset after concatination with wordlist: (3707, 2) 
+Epoch 1/8
+----------
+Train loss 0.5886854139269041 accuracy 0.7914755867278123
+Epoch 2/8
+----------
+Train loss 0.3583053502169887 accuracy 0.8934448340976531
+Epoch 3/8
+----------
+Train loss 0.23589084154709467 accuracy 0.9379552198543296
+Epoch 4/8
+----------
+Train loss 0.18772967851315303 accuracy 0.9549500944159698
+Epoch 5/8
+----------
+Train loss 0.12234090546101878 accuracy 0.9722147288912868
+Epoch 6/8
+----------
+Train loss 0.08875384381324944 accuracy 0.9819260857836526
+Epoch 7/8
+----------
+Train loss 0.0705153234689376 accuracy 0.9840841650930672
+Epoch 8/8
+----------
+Train loss 0.06319542607023573 accuracy 0.9859724844888049
